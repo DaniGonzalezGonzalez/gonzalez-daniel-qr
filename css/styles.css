@@ -1,0 +1,26 @@
+.body {
+    background-color: var(--color2);
+}
+
+.card {
+    border-radius: 1rem;
+    padding: 1rem;
+    width: var(--mobile-width);
+    text-align: center;
+    background-color: var(--color1);
+}
+
+.card-img {
+    border-radius: 1rem;
+}
+.content {
+    padding: 1rem;
+}
+
+.title {
+    color: var(--color4);
+}
+.text {
+    color: var(--color3);
+}
+
